@@ -7,7 +7,7 @@
 ### Hi, I'm Poovarasan A
 CSE student · UI/UX · Full-Stack · Machine Learning · Chennai
 
-[**Live dashboard**](https://poovarasan-arulganesh.github.io/dashboard) · [Portfolio](https://pa1720.github.io/poovarasan-portfolio/) · [LinkedIn](https://www.linkedin.com/in/poovarasan-arulganesh)
+[**Live dashboard**](https://poovarasan-arulganesh.github.io/dashboard) · [Portfolio](https://poovarasan-arulganesh.github.io/personalwebsite/) · [LinkedIn](https://www.linkedin.com/in/poovarasan-arulganesh)
 
 </div>
 
